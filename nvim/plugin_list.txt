@@ -1,0 +1,13 @@
+LuaSnip-master
+cmp-nvim-lsp-main
+cmp_luasnip-master
+noice.nvim-main
+nui.nvim-main
+nvim-autopairs-master
+nvim-cmp-main
+nvim-lspconfig-master
+nvim-tree.lua-master
+nvim-treesitter-master
+plenary.nvim-master
+telescope.nvim-master
+which-key.nvim
