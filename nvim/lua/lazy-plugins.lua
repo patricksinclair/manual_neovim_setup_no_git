@@ -1,0 +1,1 @@
+-- require 'my_plugin_configs.plugins.telescope'
