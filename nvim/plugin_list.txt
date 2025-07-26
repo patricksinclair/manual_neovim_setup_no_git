@@ -1,10 +1,14 @@
 LuaSnip-master
+bufferline.nvim-main
 cmp-nvim-lsp-main
 cmp_luasnip-master
+conform.nvim-master
+mini.nvim-main
 noice.nvim-main
 nui.nvim-main
 nvim-autopairs-master
 nvim-cmp-main
+nvim-lint-master
 nvim-lspconfig-master
 nvim-tree.lua-master
 nvim-treesitter-master
