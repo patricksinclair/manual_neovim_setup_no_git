@@ -1,8 +1,10 @@
 LuaSnip-master
+ayu-vim-master
 bufferline.nvim-main
 cmp-nvim-lsp-main
 cmp_luasnip-master
 conform.nvim-master
+darcula-master
 mini.nvim-main
 noice.nvim-main
 nui.nvim-main

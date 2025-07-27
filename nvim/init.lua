@@ -8,6 +8,8 @@ require('nvim-treesitter.configs').setup {
   },
 }
 
+vim.opt.termguicolors = true
+
 
 require('keymaps')
 require('lazy-plugins')
@@ -22,3 +24,5 @@ require("plugin_configs.linting")
 require("plugin_configs.formatting")
 require("plugin_configs.bufferline")
 
+vim.g.ayucolor = "mirage"
+vim.cmd("colorscheme ayu")
