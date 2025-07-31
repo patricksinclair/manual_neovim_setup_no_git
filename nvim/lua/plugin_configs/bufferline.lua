@@ -5,5 +5,5 @@ require("bufferline").setup({
 			local icon = (level:match("error") and " " or " ")
 			return " " .. icon .. count
 		end,
-	}
+	},
 })

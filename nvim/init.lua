@@ -22,7 +22,7 @@ require("plugin_configs.nvim_tree")
 require("plugin_configs.mini")
 require("plugin_configs.linting")
 require("plugin_configs.formatting")
-require("plugin_configs.bufferline")
 
-vim.g.ayucolor = "mirage"
+vim.g.ayucolor = "dark"
 vim.cmd("colorscheme ayu")
+require("plugin_configs.bufferline")

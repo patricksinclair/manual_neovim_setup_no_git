@@ -14,6 +14,7 @@ nvim-lint-master
 nvim-lspconfig-master
 nvim-tree.lua-master
 nvim-treesitter-master
+nvim-web-devicons-master
 plenary.nvim-master
 telescope.nvim-master
 which-key.nvim
